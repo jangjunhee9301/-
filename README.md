@@ -31,6 +31,9 @@
 <b>      https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write
 
 #### 4. 이미지  굽기 위해 필요한 것들
+![발레나 엣쳐](https://github.com/user-attachments/assets/4f900dc3-9fa3-4fdb-85a0-24c0dc163156)
+![발레나 엣쳐 1](https://github.com/user-attachments/assets/7ecdb9c1-9dac-4bd9-9e83-f2618513e90b)
+
 
        4-1. sd card formatter  download
        4-2. balenaetcher download --->  이미지 굽기
