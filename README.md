@@ -7,8 +7,8 @@
     
 ```  
         - jetson nano 4gb
+![젯슨나노](https://github.com/user-attachments/assets/919996c3-b110-4ba1-9c9a-c1454e39559d)
 
-![젯슨나노](https://github.com/user-attachments/assets/fe1287e3-bd4c-4a44-ac9b-8ca5e1061d42)
 
 
         - c type power adapter
