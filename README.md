@@ -44,3 +44,8 @@
   [https://developer.nvidia.com/embedded/learn/jetson-nano-2gb-devkit-user-guide#id-.JetsonNano2GBDeveloperKitUserGuidevbatuu_v1.0-DeveloperKitSetup](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write)
 
 #### 6. 우분투 설치
+![우분투 설치 1](https://github.com/user-attachments/assets/c3affbea-f328-4968-9692-617061d34a0f)
+![우분투 설치 2](https://github.com/user-attachments/assets/c0fed95c-3521-43a8-9764-082bdde16d0a)
+![우분투 설치 3](https://github.com/user-attachments/assets/e97d62d2-f0e1-4756-87fe-e92614e2f381)
+
+
