@@ -1,4 +1,6 @@
 # 젯슨나노
+![젯슨나노](https://github.com/user-attachments/assets/e0379a47-586b-4477-9721-cbfc362b87a0)
+
 
 # ㅣGetting Started with AI on Jetson Nanoㅣ
 
@@ -7,10 +9,6 @@
     
 ```  
         - jetson nano 4gb
-![젯슨나노](https://github.com/user-attachments/assets/919996c3-b110-4ba1-9c9a-c1454e39559d)
-
-
-
         - c type power adapter
   
         - 와이파이 동글
