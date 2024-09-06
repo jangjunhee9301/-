@@ -1,6 +1,6 @@
 # 젯슨나노
 
-<b> Getting Started with AI on Jetson Nano
+# ㅣGetting Started with AI on Jetson Nano
 
 ```
  1. Jetson Nano Setting 준비물
