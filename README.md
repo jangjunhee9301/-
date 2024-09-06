@@ -6,7 +6,8 @@
 #### 1. Jetson Nano Setting 준비물
     
 ```  
-        - jetson nano 4gb
+        - jetson nano 4gb ![젯슨나노](https://github.com/user-attachments/assets/3bf9a625-8433-4b33-858a-2d1dc0c493d8)
+
   
         - c type power adapter
   
